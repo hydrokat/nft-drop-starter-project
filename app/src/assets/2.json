@@ -1,0 +1,19 @@
+{
+  "name": "hnata_pose_1",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "D2GbSXsTj77ToBtqp7mAhtBcdNFVPGevvAfWxtEjNQa5",
+        "share": 100
+      }
+    ]
+  }
+}
